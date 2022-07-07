@@ -30,6 +30,7 @@
 
 	<div class="corner">
 		<!-- TODO put something else here? github link? -->
+		EEEEK
 	</div>
 </header>
 
